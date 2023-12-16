@@ -5,8 +5,17 @@
 3. Multiple Account Feature = 10 days
 4. Promotion Features = 5 days
 5. Trading Features = 30 days
-6. Showing Fake Ui Feature = 10 days
-7. Other Feature may or may not be necessary in Future = 20 days
+6. Showing Fake ui Feature = 10 days
+7. Other Feature may or may not be necessary for Future = 20 days
+```
+
+# Main topic to discuss with Client.
+
+```
+1. What is the main difference between each account eg. Normal account, and Trading account? 
+2. What are the main features of trading?
+3. What are the specific features of fake ui data?
+4. What kind of promotion feature do we want to provide to users?
 ```
 
 ### Authentication API Features (5 days)
@@ -182,9 +191,3 @@ We don’t have enough data to calculate the specific time line for this feature
 
 Showing fake chart for specific Crypto.
 We need to make a meeting with Client to discuss on other specific fake ui feature that client want to add)
-
-### Main topic for meeting with Client.
-
-What are main different between each account eg. normal account, trading account? 
-What are the main features for trading?
-What are the specific feature for fake ui data?
