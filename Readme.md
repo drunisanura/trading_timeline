@@ -1,12 +1,21 @@
-# Total Timeline For Both Api and Frontend
+# Timeline For Both Api and Frontend
 ```
-1. Authentication Feature = 5 days
-2. Point Feature = 10 days
-3. Multiple Account Feature = 10 days
-4. Promotion Features = 5 days
-5. Trading Features = 30 days
-6. Showing Fake ui Feature = 10 days
-7. Other Feature may or may not be necessary for Future = 20 days
+1. UI/UX Design for User and Admin Dashboard (5 days)
+2. Authentication Feature = 5 days
+3. Point Feature = 10 days
+4. Multiple Account Feature = 10 days
+5. Promotion Features = 5 days
+6. Trading Features = 30 days
+7. Showing Fake UI Feature = 10 days
+8. Extra Timeline = 15 days
+   Total Timeline = 90 Days
+```
+# Beta Release And Stable Release
+```
+   We will get an Alpha Version within = 90 days
+   We will get a Beta Version By fixing bugs from the alpha version and then deploying Both Admin Dashboard, User Dashboard, and Backend in Client Request Server) = 15 days
+   We will accept every user bugs from Beta Version = 15 days
+   Stable Version will be ready  in 120 days.
 ```
 
 # Main topic to discuss with Client.
