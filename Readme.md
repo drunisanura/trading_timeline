@@ -1,9 +1,19 @@
+# Total Timeline For Both Api and Frontend
+```
+1. Authentication Feature = 5 days
+2. Point Feature = 10 days
+3. Multiple Account Feature = 10 days
+4. Promotion Features = 5 days
+5. Trading Features = 30 days
+6. Showing Fake Ui Feature = 10 days
+7. Other Feature may or may not be necessary in Future = 20 days
+```
 
 ### Authentication API Features (5 days)
 
 1. **User Account Creation:**
     
-    - The admin has the capability to create new user accounts.
+    - The admin can create new user accounts.
     - This involves providing necessary user details and generating authentication credentials.
 2. **User Account Management:**
     
@@ -11,7 +21,8 @@
     - Disabling an account grants the admin full control over it, restricting user access.
 
 
-Frontend Authentication Development (5 days)
+###  Frontend Authentication Features (5 days)
+
 
 1. **Create User Register Page for Admin:**
     
@@ -28,7 +39,7 @@ Frontend Authentication Development (5 days)
     - Redirect the user to the appropriate dashboard or landing page based on their role.
 
 
-### Point Feature Api (10 days)
+### Point API Features (10 days)
 
 1. **User Uploads Transaction Screenshots:**
     
@@ -56,7 +67,7 @@ Frontend Authentication Development (5 days)
     - Users should be able to track the history of their point withdrawals, including transaction details and statuses.
 
 
-### Frontend Point Feature Development (10 days)
+###  Point  Frontend Features  (10 days)
 
 1. **Admin Point Management Page:**
     
@@ -103,7 +114,7 @@ Frontend Authentication Development (5 days)
 
 
 
-### Multiple Account Feature Api 
+### Multiple Account API Features (10 days)
 
 1. **Create Stable Account Types:**
     
@@ -119,7 +130,7 @@ Frontend Authentication Development (5 days)
     - Allow users to transfer points between their regular account and specialized accounts like "Spot," providing flexibility.
 
 
-### Multiple Account Feature Frontend Development
+### Multiple Account  Frontend Features(10days)
 
 **Days 1-5:**
 
@@ -148,3 +159,32 @@ Create promotion detail page for admin.
 Create event create page for Admin.
 
 (Will discuss more if Client want to add more feature on this one)
+
+
+### Promotion API features (5 days) 
+
+Create promotion related detail.
+Create some event.
+
+### Promotion Frontend features (5 days) 
+
+Create admin provided Promotion detail page For user.
+Create promotion detail page for admin.
+Create event create page for Admin.
+
+(Will discuss more if Client want to add more feature on this one)
+
+### Trading Features Both api and frontend (30 days)
+
+We don’t have enough data to calculate the specific time line for this feature. We need to make a meeting with Client to discuss on this specific feature.
+
+### For Fake ui feature  Both api and frontend(10 days)
+
+Showing fake chart for specific Crypto.
+We need to make a meeting with Client to discuss on other specific fake ui feature that client want to add)
+
+### Main topic for meeting with Client.
+
+What are main different between each account eg. normal account, trading account? 
+What are the main features for trading?
+What are the specific feature for fake ui data?
