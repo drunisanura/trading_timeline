@@ -10,12 +10,13 @@
 8. Extra Timeline = 15 days
    Total Timeline = 90 Days
 ```
-# Beta Release And Stable Release
+# Version Alpha,Beta and Stable Release
 ```
-   We will get an Alpha Version within = 90 days
-   We will get a Beta Version By fixing bugs from the alpha version and then deploying Both Admin Dashboard, User Dashboard, and Backend in Client Request Server) = 15 days
-   We will accept every user bugs from Beta Version = 15 days
-   Stable Version will be ready  in 120 days.
+   Step 1. We will get an Alpha Version within = 90 days
+   Step 2.We will get a Beta Version By fixing bugs from the alpha version and then deploying Both  Admin Dashboard,
+   User Dashboard, and Backend in the Client Request Server) = 15 days
+   Step 3. We will accept every user's bugs from Beta Version = 15 days
+   Step 4. Stable Version will be ready  in 120 days.
 ```
 
 # Main topic to discuss with Client.
