@@ -1,4 +1,4 @@
-# Timeline For Both Api and Frontend
+# Alpah Version Timeline For Both Api and Frontend (90 Days) 
 ```
 1. UI/UX Design for User and Admin Dashboard (5 days)
 2. Authentication Feature = 5 days
@@ -8,7 +8,6 @@
 6. Trading Features = 30 days
 7. Showing Fake UI Feature = 10 days
 8. Extra Timeline = 15 days
-   Total Timeline = 90 Days
 ```
 # Version Alpha,Beta and Stable Release
 ```
