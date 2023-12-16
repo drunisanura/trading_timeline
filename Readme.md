@@ -156,38 +156,25 @@
 
 
 
-Promotion api Feature (5 days) 
-
-Create promotion related detail.
-Create some event.
-
-Promotion frontend Feature (5 days) 
-
-Create admin provided Promotion detail page For user.
-Create promotion detail page for admin.
-Create event create page for Admin.
-
-(Will discuss more if Client want to add more feature on this one)
-
-
 ### Promotion API features (5 days) 
 
-Create promotion related detail.
+Create promotion-related detail.
 Create some event.
 
 ### Promotion Frontend features (5 days) 
 
-Create admin provided Promotion detail page For user.
-Create promotion detail page for admin.
-Create event create page for Admin.
+Create admin provided Promotion detail page For the user.
+Create a promotion detail page for admin.
+Create an event create page for Admin.
 
-(Will discuss more if Client want to add more feature on this one)
+(Will discuss more if the Client want to add more feature to this one)
 
-### Trading Features Both api and frontend (30 days)
+### Trading Features Both API and frontend (30 days)
 
-We don’t have enough data to calculate the specific time line for this feature. We need to make a meeting with Client to discuss on this specific feature.
+We don’t have enough data to calculate the specific timeline for this feature. 
+We need to have a meeting with the Client to discuss this specific feature.
 
-### For Fake ui feature  Both api and frontend(10 days)
+### For Fake UI feature  Both API and frontend(10 days)
 
 Showing fake chart for specific Crypto.
-We need to make a meeting with Client to discuss on other specific fake ui feature that client want to add)
+We need to make a meeting with the Client to discuss other specific fake UI feature that the client wants to add)
